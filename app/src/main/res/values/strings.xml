@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo Program(ivan)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello fragment</string>
+    <string name="place_holder">Task</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
